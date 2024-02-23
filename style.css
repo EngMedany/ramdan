@@ -22,6 +22,7 @@ button {
     overflow: hidden;
     width: fit-content;
     margin-left: 120px;
+    background-color: transparent;
 }
 /*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*/
 .pos-center {
